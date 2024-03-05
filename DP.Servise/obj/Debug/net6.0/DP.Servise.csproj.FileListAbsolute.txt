@@ -1,0 +1,15 @@
+E:\FCI\My_Project\GraduationProject\DP.Servise\bin\Debug\net6.0\DP.Servise.deps.json
+E:\FCI\My_Project\GraduationProject\DP.Servise\bin\Debug\net6.0\DP.Servise.dll
+E:\FCI\My_Project\GraduationProject\DP.Servise\bin\Debug\net6.0\DP.Servise.pdb
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.csproj.AssemblyReference.cache
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.AssemblyInfoInputs.cache
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.AssemblyInfo.cs
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.dll
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\refint\DP.Servise.dll
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.pdb
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\ref\DP.Servise.dll
+E:\FCI\My_Project\GraduationProject\DP.Servise\bin\Debug\net6.0\GP.Core.dll
+E:\FCI\My_Project\GraduationProject\DP.Servise\bin\Debug\net6.0\GP.Core.pdb
+E:\FCI\My_Project\GraduationProject\DP.Servise\obj\Debug\net6.0\DP.Servise.csproj.CopyComplete

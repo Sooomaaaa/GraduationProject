@@ -1,0 +1,12 @@
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\GraduationProject\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+E:\FCI\My_Project\GraduationProject\GP.Core\bin\Debug\net6.0\GP.Core.dll
+E:\FCI\My_Project\GraduationProject\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.dll
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+E:\FCI\My_Project\GraduationProject\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll

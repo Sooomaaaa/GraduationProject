@@ -1,0 +1,15 @@
+E:\FCI\My_Project\GraduationProject\GP.Repo\bin\Debug\net6.0\GP.Repo.deps.json
+E:\FCI\My_Project\GraduationProject\GP.Repo\bin\Debug\net6.0\GP.Repo.dll
+E:\FCI\My_Project\GraduationProject\GP.Repo\bin\Debug\net6.0\GP.Repo.pdb
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.csproj.AssemblyReference.cache
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.AssemblyInfoInputs.cache
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.AssemblyInfo.cs
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.dll
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\refint\GP.Repo.dll
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.pdb
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\ref\GP.Repo.dll
+E:\FCI\My_Project\GraduationProject\GP.Repo\bin\Debug\net6.0\GP.Core.dll
+E:\FCI\My_Project\GraduationProject\GP.Repo\bin\Debug\net6.0\GP.Core.pdb
+E:\FCI\My_Project\GraduationProject\GP.Repo\obj\Debug\net6.0\GP.Repo.csproj.CopyComplete
